@@ -4,4 +4,4 @@
 
  I love learning new things and having a deep understanding on them. I'm a person who love the process and the experience more than the result. I lack aesthetic sense. I know C, C++, Python, 
 
- [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjank2022)](https://github.com/anuraghazra/github-readme-stats)
+ [![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjank2022&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
